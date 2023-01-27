@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Montserrat:wght@400;500;600;700&display=swap');
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+li {
+    font-family: 'Montserrat', sans-serif;
+    color: #464646;
+}
+
+body::-webkit-scrollbar {
+    width: 6px;
+}
+
+body::-webkit-scrollbar-track {
+    background: #ff8b88;
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: rgb(224, 224, 224);
+    border-radius: 20px;
+}
